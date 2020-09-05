@@ -1,6 +1,6 @@
 {
   "name": "@smartblog/nestjs-rdb-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "nestjs redis server",
   "main": "./dist",
   "scripts": {
