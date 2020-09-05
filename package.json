@@ -1,7 +1,7 @@
 {
   "name": "@smartblog/nestjs-rdb-lib",
   "version": "1.0.0",
-  "description": "nestjs mongodb server",
+  "description": "nestjs redis server",
   "main": "./dist",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,18 +13,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jamesjianpeng/nestjs-mdb-lib.git"
+    "url": "git+https://github.com/jamesjianpeng/nestjs-rdb-lib.git"
   },
   "keywords": [
     "nestjs",
-    "mongodb"
+    "redis"
   ],
   "author": "jamesjianpeng",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jamesjianpeng/nestjs-mdb-lib/issues"
+    "url": "https://github.com/jamesjianpeng/nestjs-rdb-lib/issues"
   },
-  "homepage": "https://github.com/jamesjianpeng/nestjs-mdb-lib#readme",
+  "homepage": "https://github.com/jamesjianpeng/nestjs-rdb-lib#readme",
   "dependencies": {
     "@nestjs/common": "^7.4.2",
     "@nestjs/testing": "^7.4.2",
