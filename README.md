@@ -1,5 +1,5 @@
-# nestjs-mdb-lib
-nestjs mongodb 封装库
+# nestjs-rdb-lib
+nestjs redis 封装库
 主要解决在一个 nestjs 项目中需要连接多个 redis 数据库
 
 ## 使用
